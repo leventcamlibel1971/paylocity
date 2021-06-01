@@ -1,10 +1,10 @@
 ﻿using FluentAssertions;
 using Moq;
-using Paylocity.Payroll.Operation.Enums;
 using Paylocity.Payroll.Operation.Facades;
 using Paylocity.Payroll.Operation.Factories;
 using Paylocity.Payroll.Operation.Interfaces;
 using Paylocity.Payroll.Operation.Models;
+using Paylocity.Payroll.Operation.Models.Enums;
 using Paylocity.Payroll.Operation.Repositories;
 using Xunit;
 

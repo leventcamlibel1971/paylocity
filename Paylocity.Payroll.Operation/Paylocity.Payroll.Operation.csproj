@@ -8,4 +8,8 @@
       <PackageReference Include="FluentValidation" Version="10.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Paylocity.Payroll.Operation.Models\Paylocity.Payroll.Operation.Models.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,4 +1,4 @@
-﻿namespace Paylocity.Payroll.Operation.Enums
+﻿namespace Paylocity.Payroll.Operation.Models.Enums
 {
     public enum DiscountTypeEnum
     {

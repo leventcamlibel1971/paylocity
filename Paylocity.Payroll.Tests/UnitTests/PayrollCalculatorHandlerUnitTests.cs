@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using FluentAssertions;
 using Moq;
-using Paylocity.Payroll.Operation.Enums;
 using Paylocity.Payroll.Operation.Interfaces;
 using Paylocity.Payroll.Operation.Models;
+using Paylocity.Payroll.Operation.Models.Enums;
 using Paylocity.Payroll.Operation.Repositories;
 using Paylocity.Payroll.Operation.Strategies;
 using Xunit;

@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
-using Paylocity.Payroll.Operation.Enums;
 using Paylocity.Payroll.Operation.Factories;
 using Paylocity.Payroll.Operation.Interfaces;
+using Paylocity.Payroll.Operation.Models.Enums;
 using Paylocity.Payroll.Operation.Strategies;
 using Xunit;
 

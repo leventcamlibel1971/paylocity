@@ -1,5 +1,5 @@
-﻿using Paylocity.Payroll.Operation.Enums;
-using Paylocity.Payroll.Operation.Interfaces;
+﻿using Paylocity.Payroll.Operation.Interfaces;
+using Paylocity.Payroll.Operation.Models.Enums;
 using Paylocity.Payroll.Operation.Strategies;
 
 namespace Paylocity.Payroll.Operation.Factories

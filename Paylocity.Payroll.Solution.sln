@@ -1,10 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.ApiService", "Paylocity.Payroll.ApiService\Paylocity.Payroll.ApiService.csproj", "{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paylocity.Payroll.ApiService", "Paylocity.Payroll.ApiService\Paylocity.Payroll.ApiService.csproj", "{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.Operation", "Paylocity.Payroll.Operation\Paylocity.Payroll.Operation.csproj", "{C1733637-FE75-4EB8-BDE5-257953314410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paylocity.Payroll.Operation", "Paylocity.Payroll.Operation\Paylocity.Payroll.Operation.csproj", "{C1733637-FE75-4EB8-BDE5-257953314410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.Tests", "Paylocity.Payroll.Tests\Paylocity.Payroll.Tests.csproj", "{4D1FAB36-1BC2-433E-871B-907F8F661F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paylocity.Payroll.Tests", "Paylocity.Payroll.Tests\Paylocity.Payroll.Tests.csproj", "{4D1FAB36-1BC2-433E-871B-907F8F661F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.Operation.Models", "Paylocity.Payroll.Operation.Models\Paylocity.Payroll.Operation.Models.csproj", "{A1BA12B2-556F-4692-A755-1DD5CEE21D8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +29,15 @@ Global
 		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BA12B2-556F-4692-A755-1DD5CEE21D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BA12B2-556F-4692-A755-1DD5CEE21D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BA12B2-556F-4692-A755-1DD5CEE21D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BA12B2-556F-4692-A755-1DD5CEE21D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18CCB6EC-128C-484F-AF05-A8AB2EDA0125}
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,4 @@
-﻿using Paylocity.Payroll.Operation.Enums;
+﻿using Paylocity.Payroll.Operation.Models.Enums;
 
 namespace Paylocity.Payroll.Operation.Models
 {

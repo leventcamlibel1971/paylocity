@@ -1,6 +1,6 @@
-﻿using Paylocity.Payroll.Operation.Enums;
-using Paylocity.Payroll.Operation.Interfaces;
+﻿using Paylocity.Payroll.Operation.Interfaces;
 using Paylocity.Payroll.Operation.Models;
+using Paylocity.Payroll.Operation.Models.Enums;
 
 namespace Paylocity.Payroll.Operation.Repositories
 {
