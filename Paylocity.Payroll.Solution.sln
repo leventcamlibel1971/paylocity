@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.ApiService", "Paylocity.Payroll.ApiService\Paylocity.Payroll.ApiService.csproj", "{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.Operation", "Paylocity.Payroll.Operation\Paylocity.Payroll.Operation.csproj", "{C1733637-FE75-4EB8-BDE5-257953314410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity.Payroll.Tests", "Paylocity.Payroll.Tests\Paylocity.Payroll.Tests.csproj", "{4D1FAB36-1BC2-433E-871B-907F8F661F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18EE97C-85FC-4403-9DE8-E25BDE8D6F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1733637-FE75-4EB8-BDE5-257953314410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1733637-FE75-4EB8-BDE5-257953314410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1733637-FE75-4EB8-BDE5-257953314410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1733637-FE75-4EB8-BDE5-257953314410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1FAB36-1BC2-433E-871B-907F8F661F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
