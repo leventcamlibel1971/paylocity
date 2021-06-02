@@ -20,7 +20,7 @@ namespace Paylocity.Payroll.ApiService.Controllers
 
         [ServiceFilter(typeof(ModelStateValidate))]
         [HttpPost("paycheck/v1")]
-        public IActionResult CalculateCostOfBenefits([FromBody] EmployeeModel employeeModel)
+        public IActionResult GeneratePaycheck([FromBody] EmployeeModel employeeModel)
         {
             var payCheck = _paycheckFacade.Calculate(employeeModel);
             return Ok(payCheck);
